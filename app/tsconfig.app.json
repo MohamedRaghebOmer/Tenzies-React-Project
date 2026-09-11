@@ -24,6 +24,10 @@
 
     /* Strictness */
     "strict": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
     "noImplicitOverride": true,
     "noImplicitReturns": true,
     "removeComments": true

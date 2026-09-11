@@ -1,0 +1,6 @@
+@import "./components/Main/Main.css";
+@import "./components/Die/Die.css";
+
+body {
+  background-color: #0b2434;
+}
